@@ -15,7 +15,6 @@
 - install body-parser
 - install cors
 - install nodemon
-- install dotenv
 
 ## How to run the project
 
@@ -37,7 +36,6 @@
   - [Body-Parser](https://www.npmjs.com/package/body-parser)
   - [CORS](https://www.npmjs.com/package/cors)
   - [Nodemon](https://www.npmjs.com/package/nodemon)
-  - [dotenv](https://www.npmjs.com/package/dotenv)
 
   ## Author
 
