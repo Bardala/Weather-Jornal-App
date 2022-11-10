@@ -40,20 +40,3 @@ app.post("/postData", (req, res) => {
 app.get("/setData", (req, res) => {
   res.send(projectData);
 });
-
-//Notes
-// projectData = {...req.body}
-
-//Notes
-//if key name and value name are same you can abbreviate them in on word
-// {
-// date : newDate,
-// temp : temp,
-// content : content,
-// }
-// magic!
-// {
-// date : newDate,
-// temp,
-// content
-// }
